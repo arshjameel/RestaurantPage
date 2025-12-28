@@ -21,7 +21,7 @@ export const home = () => {
     p1.textContent = 'Welcome to Baratie!';
     p2.textContent = `Baratie is the only floating restaurant in the Sambas region of the mighty East Blue. With top class chefs and over nine years of experience in the industry, no one does it better than us!
         
-    Whether you are an ambitious pirate in search of infamous One Piece, or if you are simply spending your holidays on the sea, Baratie will offer you with an experience you can never forget!`
+    Whether you are an ambitious pirate in search of the infamous One Piece, or if you are simply spending your holidays on the sea, Baratie will offer you with an experience you can never forget!`
     paraDiv.appendChild(p1);
     paraDiv.appendChild(p2);
     mainDiv.appendChild(paraDiv);

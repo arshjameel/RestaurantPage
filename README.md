@@ -15,7 +15,7 @@ All content loads via JS without page refreshes.
 - CSS Flexbox & Grid
 - Responsive images
 
-## Note
+### Note
 1. The color palette used for this program was loosely inspired by the 
 ["Gruvbox"](https://github.com/morhetz/gruvbox?tab=readme-ov-file) colorscheme.
 2. The website theme was inspired by the popular anime 
